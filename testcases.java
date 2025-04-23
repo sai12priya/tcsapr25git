@@ -1,10 +1,10 @@
 class Testcases{
 @Test
   public void testMethod(){
-    assert(false)
+     assert(false);
+  }
 @Test
-public void testMethod3(){
-assert(true)
-}
-      }
+  public void testMethod3(){
+     assert(true);
+  }
 }
