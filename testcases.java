@@ -1,4 +1,7 @@
-class Testcases{
+@Test
+  public void testMethod3(){
+     assert(true);
+  }class Testcases{
 @Test
   public void testMethod(){
      assert(false);
@@ -8,7 +11,7 @@ class Testcases{
      assert(true);
   }
 @Test
-  public void testMethod3(){
+  public void testMethod4(){
      assert(true);
   }
 }
